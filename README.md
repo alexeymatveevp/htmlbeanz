@@ -2,7 +2,8 @@ HTMLBeanz is an HTML java objects runtime editor.
 
 It's designed to be integrated into any java **web** application and provide an embeddable view to edit any java runtime objects configured as input to this view.
 
-## Usage
+## Features
+### Type-specific edit widgets
 Several types are supported to be presented in the view
 
 * All primitives - numbers, booleans and other
@@ -12,6 +13,12 @@ Several types are supported to be presented in the view
 
 The properties which are not recognised will simply not be presented
 
+### Modify collection contents
+It's possible to add / remove item from the list. If the list contains object which can be of
+different types then the choice of object type will be suggested when adding item.
+
+(item type choices are scanned in application classpath)
+
 ## Examples
 #### view example
 The view looks like this
@@ -20,3 +27,5 @@ The view looks like this
 #### edit single property
 
 #### search properties
+
+#### add item to list
