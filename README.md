@@ -22,10 +22,13 @@ different types then the choice of object type will be suggested when adding ite
 ## Examples
 #### view example
 The view looks like this
-(image)
+<img src="https://github.com/davidluckystar/htmlbeanz/blob/master/screenshots/1.png" width="40%" style="display: inline-block">
 
 #### edit single property
+<img src="https://github.com/davidluckystar/htmlbeanz/blob/master/screenshots/2.png" width="40%" style="display: inline-block">
 
 #### search properties
+<img src="https://github.com/davidluckystar/htmlbeanz/blob/master/screenshots/3.png" width="40%" style="display: inline-block">
 
 #### add item to list
+<img src="https://github.com/davidluckystar/htmlbeanz/blob/master/screenshots/4.png" width="40%" style="display: inline-block">
