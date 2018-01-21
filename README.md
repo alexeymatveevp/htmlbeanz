@@ -21,7 +21,6 @@ different types then the choice of object type will be suggested when adding ite
 
 ## Examples
 #### view example
-The view looks like this
 <img src="https://github.com/davidluckystar/htmlbeanz/blob/master/screenshots/1.png" width="40%" style="display: inline-block">
 
 #### edit single property
