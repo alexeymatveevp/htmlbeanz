@@ -2,6 +2,12 @@ HTMLBeanz is an HTML java objects runtime editor.
 
 It's designed to be integrated into any java **web** application and provide an embeddable view to edit any java runtime objects configured as input to this view.
 
+- [ ] awef
+- [ ] a
+- [ ] wef
+- [x] fwef
+
+
 ## Features
 ### Type-specific edit widgets
 Several types are supported to be presented in the view
